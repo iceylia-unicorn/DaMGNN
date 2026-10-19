@@ -1,0 +1,29 @@
+{
+  "SHS27k": {
+    "random": {
+      "input_dim": 7,
+      "output_dim": 7,
+      "ppi_hidden_dim": 1024,
+      "prot_hidden_dim": 256,
+      "ppi_num_layers": 2,
+      "prot_num_layers": 4,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001,
+      "max_epoch": 500,
+      "batch_size": 10000,
+      "dropout_ratio": 0.0,
+      "pre_epoch": 50,
+      "commitment_cost": 0.25,
+      "num_embeddings": 1024,
+      "mask_ratio": 0.2,
+      "sce_scale": 1.5,
+      "mask_loss": 0.5,
+      "seed": 0,
+      "log_num": 10,
+      "data_mode": 0,
+      "data_split_mode": 0,
+      "dataset": "SHS27k",
+      "split_mode": "random"
+    }
+  }
+}

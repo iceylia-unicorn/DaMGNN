@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Training artefacts and large files
+data/
+datasets/
+checkpoints/
+results/
+runs/
+wandb/
+nni-experiments/
+*.ckpt
+*.pth
+*.pt
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.log
+
+# Secrets and local configuration
+.env
+*.key
+*.pem
+configs/param_configs.json

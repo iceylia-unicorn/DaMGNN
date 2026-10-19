@@ -1,0 +1,6 @@
+numpy>=1.23
+scipy>=1.9
+nni>=2.10
+info-nce-pytorch>=0.1.4
+torch-geometric>=2.3
+dgl>=1.1

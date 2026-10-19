@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DaMGNN-PPI: Degree-Adaptive Multi-view Graph Learning for Protein-Protein Interaction Prediction"
+version: "0.1.0"
+date-released: "2026-10-18"
+authors:
+  - family-names: "Zhang"
+    given-names: "Hongrui"
+  - family-names: "Wang"
+    given-names: "Honghao"
+  - family-names: "Yuan"
+    given-names: "Qilin"
+  - family-names: "Zhou"
+    given-names: "Jing"
+  - family-names: "Zhang"
+    given-names: "Kai"
+  - family-names: "Li"
+    given-names: "Ping"

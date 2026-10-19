@@ -1,0 +1,15 @@
+name: damgnn
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy>=1.23
+  - scipy>=1.9
+  - pytorch
+  - pip:
+      - nni>=2.10
+      - info-nce-pytorch>=0.1.4
+      - torch-geometric>=2.3
+      - dgl>=1.1
