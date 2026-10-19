@@ -18,7 +18,7 @@ PyTorch/DGL implementation of **Degree-Adaptive Multi-view Graph Learning for Pr
 
 ## Installation
 
-Python 3.11 is the CPU-tested target. Create an environment first:
+Create an environment first:
 
 ```bash
 conda env create -f environment.yml
